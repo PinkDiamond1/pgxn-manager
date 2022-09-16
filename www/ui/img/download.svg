@@ -1,7 +1,1 @@
-<svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" enable-background="new 0 0 48 48">
-    <circle fill="#4CAF50" cx="24" cy="24" r="21"/>
-    <g fill="#fff">
-        <polygon points="24,33.4 17,25 31,25"/>
-        <rect x="22" y="14.8" width="4" height="12.3"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 48 48" version="1" viewBox="0 0 48 48"><circle cx="24" cy="24" r="21" fill="#4CAF50"/><g fill="#fff"><polygon points="24 33.4 17 25 31 25"/><rect width="4" height="12.3" x="22" y="14.8"/></g></svg>
